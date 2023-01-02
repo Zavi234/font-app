@@ -1,0 +1,30 @@
+#heading
+{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: orange;
+    width: 100%;
+    margin: 0;
+    font-size: 20px;
+    box-shadow: 4px 3px 9px black;
+}
+
+#copyright_footer
+{
+    position: fixed;
+    bottom: 0;
+    background-color: gray;
+    width: 100%;
+    text-align: center;
+    color: white;
+}
+
+#note
+{
+    font-size: 15px;
+    color: blue;
+}
+
+canvas
+{
+    background-color: gray;
+}
